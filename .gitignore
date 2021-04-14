@@ -1,2 +1,9 @@
 dist
 node_modules
+
+# Svelte-kit
+.DS_Store
+node_modules
+/.svelte
+/build
+/functions
